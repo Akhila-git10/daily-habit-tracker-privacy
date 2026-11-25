@@ -1,6 +1,6 @@
 # Privacy Policy – Daily Habit Tracker
 
-**Last updated: November 7, 2026**
+**Last updated: November 25, 2026**
 
 Daily Habit Tracker ("the App") is developed by Akhila Narkenabilli.
 
@@ -18,9 +18,11 @@ The current version does not actively send habit information to a developer-oper
 
 ## 3. Data Sharing
 
-We do not sell, rent, or share your habit information with third parties.
+We do not sell, rent, or share users' habit information with third parties.
 
-The current version does not include advertising or analytics services.
+The App uses Google AdMob to display advertisements. Google Mobile Ads SDK may collect and share certain information, such as IP address, device and advertising identifiers, ad interactions, and diagnostic information, for advertising, analytics, and fraud prevention.
+
+For more information, please see [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ## 4. Data Storage and Security
 
@@ -36,4 +38,11 @@ Uninstalling the App or clearing its application data removes the locally stored
 
 ## 6. Children's Privacy
 
-The App is not specifically designed for children under 13, and
+The App is not specifically designed for children under 13, and we do not knowingly collect personal information from children under 13.
+
+## 7. Advertising
+
+The App uses Google AdMob to display advertisements. Depending on applicable consent requirements and device settings, advertisements may be personalized or non-personalized.
+
+For information about how Google uses data from apps, visit:
+https://policies.google.com/technologies/partner-sites
